@@ -4,7 +4,7 @@ int main ()
 
 {
 	
-cout << "Hello Everyone" << endl;
+cout << "Hello everyone" << endl;
 
 return 0;
 }
